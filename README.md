@@ -1,2 +1,0 @@
-# LearnWordPress
-LearnWordPress
