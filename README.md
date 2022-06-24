@@ -1,2 +1,2 @@
-# Learn Wordpress
-my portfolio
+# LearnWordPress
+LearnWordPress 
